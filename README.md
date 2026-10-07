@@ -23,6 +23,7 @@ check their papers, emails, and other important documents.
 
 - [Ludwig](https://ludwig.guru) - Ludwig is the linguistic search engine that helps you to write better in English
 - [Online-Convert](https://www.online-convert.com) - Convert media free, fast and online. No software installation needed.
+- [Practical Web Tools](https://practicalwebtools.com/) - 1,400+ free browser tools: PDF editors & converters, file/image/audio converters, calculators. All client-side, no uploads.
 
 - [QuickLookPlugins](https://www.quicklookplugins.com) - A directory of Quick Look Plugins for Apple's OS X
 - [Aaencode](http://utf-8.jp/public/aaencode.html?src=alert(%22test%22)) - Encode any JavaScript program to Japanese style emoticons (^_^)
